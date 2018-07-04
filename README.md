@@ -16,3 +16,4 @@ Question 3 introduces thread level parallelism within thread-blocks.
 Question 4 optimizes the solution to Question 3, highlighting the impact of control flow divergence within a SIMD instruction.
 
 NOTE: this is meant to follow a lecture introducing modern GPU architecture and the CUDA programming language.
+this is the developer branch change
